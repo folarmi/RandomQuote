@@ -1,0 +1,34 @@
+body{
+    background-color: #b09e99;
+    font-size: 20px;
+    color: #6c757d;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10rem;
+}
+
+.wrapper{
+    margin:0px auto;
+    padding: 2rem;
+    background-color: #d8cfcc;
+    width: 500px;
+}
+
+button{
+    color: white;
+    width: 10.6rem;
+    height: 2.6rem;
+    margin-left: 10rem;
+    background-color:#64b6ac;
+    text-align: center;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color:#b09e99 ;
+}
+
+#author{
+    text-align: right;
+    color: #64b6ac;
+    font-style: italic;
+}
