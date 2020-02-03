@@ -10,14 +10,14 @@ body{
     margin:0px auto;
     padding: 2rem;
     background-color: #d8cfcc;
-    width: 500px;
+    max-width:400px;
 }
 
 button{
     color: white;
     width: 10.6rem;
     height: 2.6rem;
-    margin-left: 10rem;
+    margin-left: 3rem;
     background-color:#64b6ac;
     text-align: center;
     border-radius: 5px;
